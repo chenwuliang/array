@@ -1,0 +1,22 @@
+{
+  "name": "array-expansion",
+  "version": "1.0.4",
+  "description": "array",
+  "main": "Array.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chenwuliang/array.git"
+  },
+  "keywords": [
+    "array"
+  ],
+  "author": "leon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chenwuliang/array/issues"
+  },
+  "homepage": "https://github.com/chenwuliang/array#readme"
+}
